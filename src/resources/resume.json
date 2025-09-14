@@ -1,0 +1,94 @@
+{
+  "name": "Sayyam Gatagat",
+  "contact": {
+    "location": "Pune, India",
+    "phone": "+91 9834513453",
+    "email": "sayyamgatagat@gmail.com",
+    "linkedin": "https://linkedin.com/in/sayyamgatagat",
+    "github": "https://github.com/sayyamgatagat"
+  },
+  "summary": "Software developer with over 3 years of experience building and scaling APIs and services using Node.js, Flask, and Spring Boot. Skilled in MySQL and other relational databases with a strong focus on data modeling, query optimization, and system performance. Experienced in cross-team collaboration and integrating backend services with frontend frameworks like React and Angular for full-stack delivery.",
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Xoriant",
+      "location": "Pune, India",
+      "period": "August 2022 - Present",
+      "bullets": [
+        "Developed a Presentation Search Engine using Flask, Elasticsearch, and MySQL, supporting both semantic and keyword-based document search.",
+        "Created and maintained RESTful APIs for indexing, querying, and retrieval, and containerized services with Docker for deployment.",
+        "Built scalable backend services in Spring Boot and Node.js for systems such as reminder services and performance evaluation platforms.",
+        "Led backend development of an Appraisal Portal (Node.js, MySQL, Angular), streamlining evaluation workflows for 4,000+ employees.",
+        "Designed and optimized backend logic and APIs for a Resource Allocation System, reducing project assignment turnaround time by 30%.",
+        "Contributed to frontend integration (Angular, React) when needed to support end-to-end delivery."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["JavaScript", "Python", "Java"]
+    },
+    {
+      "category": "Backend Frameworks",
+      "items": ["Node.js", "Flask", "Spring Boot"]
+    },
+    {
+      "category": "Databases",
+      "items": ["MySQL", "PostgreSQL", "MongoDB"]
+    },
+    {
+      "category": "Search & Indexing",
+      "items": ["Elasticsearch"]
+    },
+    {
+      "category": "Frontend",
+      "items": ["React", "Angular", "Ionic"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Docker", "Git", "Jenkins"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Walchand Institute of Technology",
+      "location": "Solapur, India",
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "gpa": "9.83 CGPA",
+      "period": "August 2018 - July 2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "FaunaFind",
+      "stack": ["Flask", "MySQL", "React"],
+      "bullets": [
+        "Built a Flask-based search API with TF-IDF and cosine similarity for image metadata retrieval, backed by MySQL for structured storage.",
+        "Implemented preprocessing (tokenization, stopword removal, stemming) to improve query and metadata quality.",
+        "Designed RESTful endpoints to serve JSON responses with similarity scores, image URLs, and descriptions.",
+        "Integrated a minimal React frontend for querying and displaying results."
+      ]
+    },
+    {
+      "name": "GDG Pune Awards Portal",
+      "stack": ["Node.js", "PostgreSQL", "React"],
+      "bullets": [
+        "Developed backend APIs in Node.js with PostgreSQL for an online nomination and voting platform.",
+        "Implemented authentication and authorization using Auth0, ensuring controlled access to resources.",
+        "Designed APIs for nominee submissions, voting, and result aggregation.",
+        "Integrated with a React-based frontend for user and admin interactions."
+      ]
+    },
+    {
+      "name": "Colloque",
+      "stack": ["React", "Firebase"],
+      "bullets": [
+        "Created a Q&A platform enabling students and teachers to post and resolve curriculum-related queries.",
+        "Used Firebase real-time database and authentication for posts, votes, and user sessions.",
+        "Developed core logic for ranking answers by upvotes and enabling anonymous posts.",
+        "Implemented the React frontend for posting and browsing questions."
+      ]
+    }
+  ]
+}

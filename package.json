@@ -1,0 +1,33 @@
+{
+  "name": "sayyamgatagat",
+  "bin": "./src/index.js",
+  "version": "1.0.1",
+  "description": "A terminal-based resume for Sayyam Gatagat. View my professional experience, skills, and education instantly by running npx sayyamgatagat",
+  "keywords": [
+    "resume",
+    "sayyamgatagat"
+  ],
+  "homepage": "https://github.com/sayyamgatagat/cli-resume#readme",
+  "bugs": {
+    "url": "https://github.com/sayyamgatagat/cli-resume/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayyamgatagat/cli-resume.git"
+  },
+  "license": "ISC",
+  "author": "Sayyam Gatagat",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
