@@ -1,9 +1,7 @@
 {
-  "name": "@sayyamgatagat/resume",
-  "bin": {
-    "sayyamgatagat": "./src/index.js"
-  },
-  "version": "1.0.0",
+  "name": "sayyamgatagat",
+  "bin": "./src/index.js",
+  "version": "1.0.1",
   "description": "A terminal-based resume for Sayyam Gatagat. View my professional experience, skills, and education instantly by running npx sayyamgatagat",
   "keywords": [
     "resume",

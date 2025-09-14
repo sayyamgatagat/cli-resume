@@ -20,7 +20,7 @@ npx sayyamgatagat
 
 If you want to install it globally:
 ```
-npm install -g @sayyamgatagat/resume
+npm install -g sayyamgatagat
 sayyamgatagat
 ```
 
